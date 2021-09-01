@@ -1,5 +1,8 @@
 # projet-de-groupe-wordpress-
 
+
+Projet mort du fun.
+
 Projet
 Vous devez choisir un thème pour réaliser un site vitrine d’un professionnel (exemple : restaurant, fleuriste, etc…).
 Le site devra au minimum comporter les éléments suivants :
@@ -22,3 +25,4 @@ Il faudra :
 • Utiliser la méthode SCRUM pour la gestion de votre projet
 • Préparer une présentation de ce projet.
 Ne pas intégrer la page « Produits/Services » pour le moment (sera vu plus tard).
+
